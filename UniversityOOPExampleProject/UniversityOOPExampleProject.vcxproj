@@ -143,6 +143,7 @@
     <ClInclude Include="Bus.h" />
     <ClInclude Include="Car.h" />
     <ClInclude Include="GasStation.h" />
+    <ClInclude Include="Plane.h" />
     <ClInclude Include="Transport.h" />
     <ClInclude Include="Truck.h" />
   </ItemGroup>
@@ -151,6 +152,7 @@
     <ClCompile Include="Car.cpp" />
     <ClCompile Include="GasStation.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Plane.cpp" />
     <ClCompile Include="Transport.cpp" />
     <ClCompile Include="Truck.cpp" />
   </ItemGroup>

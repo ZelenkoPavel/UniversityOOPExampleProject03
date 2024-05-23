@@ -1,8 +1,10 @@
 #pragma once
-class Bus
+#include "Transport.h"
+ 
+class Bus : public Transport
 {
 public:
-	//states
-	int tank;
+	Bus() {}
+	Bus(int tank) : Transport(tank) {}
 };
 
